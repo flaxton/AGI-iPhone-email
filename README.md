@@ -68,7 +68,7 @@ Tap and release in the password field, and then tap on "Paste" on the black bar 
 
 ![Paste](./IMG_1003-edited.jpg "Paste")
 
-*Boom* your password on the invisible clipboard is pasted in, without you having to try to type it! Tap "Next" to continue.
+*Boom* your password on the invisible clipboard is pasted in, without you having to try to type it! :thumbsup: Tap "Next" to continue.
 
 ![Pasted](./IMG_1004-edited.jpg "Pasted")
 
@@ -92,7 +92,9 @@ Make your choices and tap "Save".
 
 ![Account Choices](./IMG_1007-edited.jpg "Account Choices")
 
-Now you will be brought to your Inbox. If it says "All Inboxes" then it is mixing your personal email account(s) with your AGI G Suite email account.
+__Congratulations!__ Your account is set up! :clap:
+
+Now you will be brought to your Inbox. If it says "All Inboxes" then it is mixing your personal email account(s) with your AGI G Suite email account, for viewing purposes.
 
 ![All Inboxes](./IMG_1008-edited.jpg "All Inboxes")
 
